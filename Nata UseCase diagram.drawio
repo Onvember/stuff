@@ -1,1 +1,70 @@
-<mxfile host="www.draw.io" modified="2019-11-18T13:22:49.112Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="CPuxDEtEILGoSeRmrWFT" version="12.2.6" type="github" pages="1"><diagram id="sq087LJOg1igy7U2LMEV" name="Page-1">7Vrbcts2EP0aPSpDgBdRj6IuyUySNjPutM5Th5Jgii1EKBBkSf36LnEhQRKyk9QylUz9gAEWCwLYs2exgDzwp9vTW57uNh/ZmtAB9tangT8bYDz2MZSl4KwEIdKCjOdrJUK14C7/h2ihp6WHfE32DUXBGBX5rilcsaIgK9GQpZyzY1PtgdHmrLs0Ix3B3SqlXekf+VpslDTGo1r+juTZxsyMorHq2aZGWe9kv0nX7GiJ/PnAn3LGhKptT1NCS9sZu6hxiwu91cI4KcTXDPhlPHz/6+/v7//0pmR5v/yyXX5cDJGvFyfOZsdkDQbQTcbFhmWsSOm8liacHYo1KT/rQavW+cDYDoQIhH8RIc4azfQgGIg2Ykt1L6yYn+/1eNn4XDbehKY5O9mds7NuqbWWC7xoAy3aswNfkSc2rr1QpDwj4ikD4QoqcHHCtgQWBAM5oanIH5sLSbWzZZVejQdUNCTfAI9e5WNKD3qmARhiIsskHIAxYyRLJYll3ZOlb3SgnEpJIuvjDuDgmLuyetjSyUowDoZ+JFzkQIIP6ZLQT2yfi5wVoLJkQrAtKNCyI0lXf2fSGaaMluPga/6D/LO+MaF5Vo4VpXPYXqD3Bmrk9DSeXfOb8KK5pYML8nX7WFPViDYWSyPvSnihuBc6nXJxXxMIWp8brZpNZeNsNT4RnsPOCbfp1i8xx19LzLBPYo6dxBwvDCUrMioCzmWZWPVu3P15aBjgsF8a4n5OtZenIeqNhib/epaHuN8DMvyxke4FsaBPxMwy2zmNJ8OiKkcmj6kkyIROletAOTJBFsrJzxRMR6gZTXHQczRFqItY295NSh03uSB3u1T66xHuhU0jPeSUGusWrCAvYzfsxQ27jbq5YIAcdgtGVzOcO30fjyzHXnTyg5mVPShXh9k9K8tv5v04orCRZMmhlpW1of7r9kieKSYFZgmtSaq1oA4FFSkjfZXA3eUHliRuJEKdEE0p3N9Jb54Stq4NuOsqlcx2lfhqnhK4PWV+waRO4J7FwqVcNyu4YwN35YyejrJ1fXpzmAatqBl1oyYKHJhej/2hG9PYGLZF6C4QoetqX0GML3iCPbyirW8CjFSrP2sPT54KM/a8Nw594KLz60IfuaFfXADR9ZLTJnWV8tjeMnF9StG/pY8s/dg8BNnh3WZ60ogDNw63H+A3fXO9euP9Qa8hN/Dug7SjPf/wE7nd45UunOh/pF8N6X4vqqOLQfy7IvKtXFGvE5VbT4C+1/cT4IWfTrzmKWknt9+Ra1UvE/YVyTddQed4nZkfYuTL8I0drFXeZK5Fcd95FHZfi14exO71x36rj6zpZpbOzSPoYuErI+jIhPW7xAODTdnWi74cmOkY7uVROAEFFO1Odaf9ljG2Aywa/jckbcoqgi6umYPPrRwcumaW/yJr0moi26+rSJMYWwI2ypzaOG2/BJcSTQfkBCycLqVCeb7vWF4IiX6YDMIZSMosRKEgB6T6PFmBLxJ+8aDZg8vnRfabTGyGwXWe9hwXPOfTHv52t4Zm/S8Zss/6vxZ//i8=</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2019-11-29T05:51:38.476Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="WMxxmJTOWx3gvExcMhkt" version="12.2.6" type="github" pages="1">
+  <diagram id="sq087LJOg1igy7U2LMEV" name="Page-1">
+    <mxGraphModel dx="932" dy="463" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="N9-KOVKX_0CebXbqmbMF-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="N9-KOVKX_0CebXbqmbMF-2" target="N9-KOVKX_0CebXbqmbMF-12" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="N9-KOVKX_0CebXbqmbMF-2" value="Тестируемый" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;" parent="1" vertex="1">
+          <mxGeometry x="80" y="100" width="30" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="N9-KOVKX_0CebXbqmbMF-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="N9-KOVKX_0CebXbqmbMF-9" target="N9-KOVKX_0CebXbqmbMF-15" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="N9-KOVKX_0CebXbqmbMF-9" value="Психолог" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;" parent="1" vertex="1">
+          <mxGeometry x="90" y="425" width="30" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="N9-KOVKX_0CebXbqmbMF-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="N9-KOVKX_0CebXbqmbMF-10" target="N9-KOVKX_0CebXbqmbMF-22" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="N9-KOVKX_0CebXbqmbMF-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="N9-KOVKX_0CebXbqmbMF-10" target="N9-KOVKX_0CebXbqmbMF-24" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="N9-KOVKX_0CebXbqmbMF-10" value="Разработчик" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;" parent="1" vertex="1">
+          <mxGeometry x="710" y="245" width="30" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="N9-KOVKX_0CebXbqmbMF-11" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="208" y="70" width="410" height="470" as="geometry"/>
+        </mxCell>
+        <mxCell id="N9-KOVKX_0CebXbqmbMF-12" value="Заполнить тест&lt;br&gt;--------&lt;br&gt;Сдать образцы подписи" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="220" y="90" width="120" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="N9-KOVKX_0CebXbqmbMF-14" value="Описать подпись по признакам" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="240" y="265" width="140" height="70" as="geometry"/>
+        </mxCell>
+        <mxCell id="N9-KOVKX_0CebXbqmbMF-15" value="Интерпретировать результаты тестов" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="240" y="420" width="140" height="70" as="geometry"/>
+        </mxCell>
+        <mxCell id="N9-KOVKX_0CebXbqmbMF-16" value="Провести почерковедческий анализ" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="240" y="342.5" width="140" height="70" as="geometry"/>
+        </mxCell>
+        <mxCell id="N9-KOVKX_0CebXbqmbMF-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="N9-KOVKX_0CebXbqmbMF-17" target="N9-KOVKX_0CebXbqmbMF-16" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="N9-KOVKX_0CebXbqmbMF-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="N9-KOVKX_0CebXbqmbMF-17" target="N9-KOVKX_0CebXbqmbMF-14" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="N9-KOVKX_0CebXbqmbMF-17" value="Почерковед" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="90" y="305" width="30" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="N9-KOVKX_0CebXbqmbMF-22" value="Редактировать базу данных" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="430" y="195" width="140" height="70" as="geometry"/>
+        </mxCell>
+        <mxCell id="N9-KOVKX_0CebXbqmbMF-24" value="Редактировать приложение" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="430" y="305" width="140" height="70" as="geometry"/>
+        </mxCell>
+        <mxCell id="N9-KOVKX_0CebXbqmbMF-26" value="&lt;font style=&quot;font-size: 16px&quot;&gt;Веб-приложение для почерковедческой экспертизы&lt;/font&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=center;verticalAlign=top;spacingTop=-4;" parent="1" vertex="1">
+          <mxGeometry x="208" y="20" width="410" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="Vu7y7EFP_vkoX0obxCFE-2" value="Добавить в базу данных" style="endArrow=open;endSize=12;dashed=1;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="N9-KOVKX_0CebXbqmbMF-12" target="N9-KOVKX_0CebXbqmbMF-22">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="340" y="180" as="sourcePoint"/>
+            <mxPoint x="500" y="180" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
