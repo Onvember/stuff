@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2019-11-30T15:09:28.813Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="A3Qc-g3CRTKUgNQ7iLW6" version="12.3.3" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-30T17:18:08.213Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="H5XigU1d3mZ7d5yDa05Z" version="12.3.3" type="github" pages="1">
   <diagram id="iFBTR7gXfTiIHQD0XVNO" name="Page-1">
-    <mxGraphModel dx="1243" dy="683" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="932" dy="512" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -155,7 +155,7 @@
           <mxGeometry y="78" width="140" height="26" as="geometry"/>
         </mxCell>
         <mxCell id="yYKGKoS039EIgSRdd9-Q-19" value="Scales" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#d5e8d4;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="30" y="261" width="140" height="104" as="geometry"/>
+          <mxGeometry x="10" y="224.5" width="140" height="104" as="geometry"/>
         </mxCell>
         <mxCell id="yYKGKoS039EIgSRdd9-Q-20" value="+ scaleID" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="yYKGKoS039EIgSRdd9-Q-19">
           <mxGeometry y="26" width="140" height="26" as="geometry"/>
@@ -167,7 +167,7 @@
           <mxGeometry y="78" width="140" height="26" as="geometry"/>
         </mxCell>
         <mxCell id="yYKGKoS039EIgSRdd9-Q-23" value="PartScales" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#f8cecc;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="223" y="472" width="140" height="130" as="geometry"/>
+          <mxGeometry x="220" y="446.5" width="140" height="130" as="geometry"/>
         </mxCell>
         <mxCell id="yYKGKoS039EIgSRdd9-Q-24" value="+ partScaleID" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="yYKGKoS039EIgSRdd9-Q-23">
           <mxGeometry y="26" width="140" height="26" as="geometry"/>
@@ -269,7 +269,7 @@
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="yYKGKoS039EIgSRdd9-Q-59" value="Comments" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#f8cecc;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="30" y="421" width="140" height="78" as="geometry"/>
+          <mxGeometry x="20" y="454.5" width="140" height="78" as="geometry"/>
         </mxCell>
         <mxCell id="yYKGKoS039EIgSRdd9-Q-60" value="+ commentID" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="yYKGKoS039EIgSRdd9-Q-59">
           <mxGeometry y="26" width="140" height="26" as="geometry"/>
@@ -291,6 +291,101 @@
         </mxCell>
         <mxCell id="yYKGKoS039EIgSRdd9-Q-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yYKGKoS039EIgSRdd9-Q-68" target="z2BmbQ6l0MY7L84lB-eh-18">
           <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="yYKGKoS039EIgSRdd9-Q-71" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="1" source="yYKGKoS039EIgSRdd9-Q-73" target="yYKGKoS039EIgSRdd9-Q-47">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="710" y="860" as="sourcePoint"/>
+            <mxPoint x="70" y="820" as="targetPoint"/>
+            <Array as="points">
+              <mxPoint x="650" y="730"/>
+              <mxPoint x="623" y="700"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yYKGKoS039EIgSRdd9-Q-73" value="&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;Наборы диапазонов&lt;/span&gt;&lt;span&gt;. каждому диапазону (&lt;/span&gt;&lt;span lang=&quot;EN-US&quot;&gt;intervalScoreID&lt;/span&gt;&lt;span&gt;) назначается его порядковый номер в разбиении (&lt;/span&gt;&lt;span lang=&quot;EN-US&quot;&gt;numInPartitioning&lt;/span&gt;&lt;span&gt;). Через поле &lt;/span&gt;&lt;span lang=&quot;EN-US&quot;&gt;partScaleID&amp;nbsp;&lt;/span&gt;&lt;span&gt;разбиение связывается с таблицей &lt;/span&gt;&lt;span lang=&quot;EN-US&quot;&gt;PartScales&lt;/span&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="623" y="740" width="138" height="175" as="geometry"/>
+        </mxCell>
+        <mxCell id="yYKGKoS039EIgSRdd9-Q-74" value="Шкалы опросников: имеют полное название и аббревиатуру&lt;br&gt;&lt;span&gt;&lt;b&gt;&quot;опросник структуры темперамента&quot; -&amp;nbsp; &quot;ОСТ&quot;&lt;/b&gt;&lt;/span&gt;" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="10" y="33" width="90" height="130" as="geometry"/>
+        </mxCell>
+        <mxCell id="yYKGKoS039EIgSRdd9-Q-76" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="1" source="yYKGKoS039EIgSRdd9-Q-74" target="yYKGKoS039EIgSRdd9-Q-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="90" y="164" as="sourcePoint"/>
+            <mxPoint x="90" y="184.71067811865476" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yYKGKoS039EIgSRdd9-Q-77" value="Какой вопрос &lt;br&gt;к какой шкале относится" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="115" y="89" width="90" height="70" as="geometry"/>
+        </mxCell>
+        <mxCell id="yYKGKoS039EIgSRdd9-Q-79" value="" style="endArrow=none;dashed=1;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="yYKGKoS039EIgSRdd9-Q-77" target="yYKGKoS039EIgSRdd9-Q-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="263" as="sourcePoint"/>
+            <mxPoint x="210" y="213" as="targetPoint"/>
+            <Array as="points">
+              <mxPoint x="190" y="270"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yYKGKoS039EIgSRdd9-Q-80" value="&lt;p style=&quot;text-align: justify&quot;&gt;&lt;span&gt;Баллы, полученные из ответов респондента на вопросы опросников, суммируются по шкалам и сравниваются с контрольными значениями. В зависимости от задач исследователя в базе предусмотрена возможность задавать разные варианты интервалов для контрольных значений. &lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align: justify&quot;&gt;Например, для опросника структуры темперамента (ОСТ) можно разделять результаты респондентов по &lt;i&gt;низким, средним и высоким&lt;/i&gt; значениям, а можно разделить их на &lt;i&gt;низкие-низкие, низкие-высокие, средние-низкие, средние-высокие, высокие-низкие и высокие-высокие значения.&amp;nbsp;&lt;/i&gt;&lt;/p&gt;" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="10" y="1010" width="529" height="150" as="geometry"/>
+        </mxCell>
+        <mxCell id="yYKGKoS039EIgSRdd9-Q-82" value="Названия всех возможных интервалов для контрольных значений и их сокращения &lt;b&gt;(например, &quot;низкий-низкий&quot;, сокр. &quot;нн&quot;)&lt;/b&gt;" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="205" y="607" width="173" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="yYKGKoS039EIgSRdd9-Q-83" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="1" source="yYKGKoS039EIgSRdd9-Q-82" target="yYKGKoS039EIgSRdd9-Q-42">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="485" y="789.2893218813452" as="sourcePoint"/>
+            <mxPoint x="485" y="739.2893218813452" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yYKGKoS039EIgSRdd9-Q-84" value="&lt;p style=&quot;text-align: justify&quot;&gt;Наборы интервалов собраны в таблице &lt;span lang=&quot;EN-US&quot;&gt;IntervalSets&lt;/span&gt;. В эту таблицу через поле &lt;span lang=&quot;EN-US&quot;&gt;IntSetNameID&amp;nbsp;&lt;/span&gt;передается имя группы интервалов (например,&lt;b&gt; “нн-вв-6”)&lt;/b&gt; из словарной таблицы &lt;span lang=&quot;EN-US&quot;&gt;IntSetNames&lt;/span&gt;, через поле &lt;span lang=&quot;EN-US&quot;&gt;intervalNameID&amp;nbsp;&lt;/span&gt;передается имя самого интервала (например,&lt;b&gt; “низкий-средний”)&lt;/b&gt; из таблицы &lt;span lang=&quot;EN-US&quot;&gt;IntervalNames&lt;/span&gt;, а также задается его порядковый номер в наборе (&lt;span lang=&quot;EN-US&quot;&gt;numInIntSet&lt;/span&gt;).&lt;/p&gt;" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="10" y="730" width="160" height="264" as="geometry"/>
+        </mxCell>
+        <mxCell id="yYKGKoS039EIgSRdd9-Q-85" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="1" source="yYKGKoS039EIgSRdd9-Q-84" target="yYKGKoS039EIgSRdd9-Q-31">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="90" y="709.2893218813452" as="sourcePoint"/>
+            <mxPoint x="90" y="659.2893218813452" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yYKGKoS039EIgSRdd9-Q-86" value="&lt;div style=&quot;text-align: justify&quot;&gt;шкала (&lt;span lang=&quot;EN-US&quot;&gt;scaleID&lt;/span&gt;) связывается с набором интервалов контрольных значений опросника (&lt;span lang=&quot;EN-US&quot;&gt;intSetID&lt;/span&gt;). Поле &lt;span lang=&quot;EN-US&quot;&gt;partScaleName&amp;nbsp;&lt;/span&gt;позволяет задать имя варианта деления для удобства исследователя (например, &lt;b&gt;“стандартный вариант”, “вариант Иванова И.И.”&lt;/b&gt;).&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="190" y="810" width="160" height="170" as="geometry"/>
+        </mxCell>
+        <mxCell id="yYKGKoS039EIgSRdd9-Q-87" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="1" source="yYKGKoS039EIgSRdd9-Q-86" target="yYKGKoS039EIgSRdd9-Q-23">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="395" y="789.2893218813452" as="sourcePoint"/>
+            <mxPoint x="330" y="490" as="targetPoint"/>
+            <Array as="points">
+              <mxPoint x="380" y="800"/>
+              <mxPoint x="400" y="640"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yYKGKoS039EIgSRdd9-Q-88" value="&lt;span&gt;комментарии, для чего нужно данное разбиение и кто его составил&lt;/span&gt;" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="10" y="374" width="160" height="52" as="geometry"/>
+        </mxCell>
+        <mxCell id="yYKGKoS039EIgSRdd9-Q-89" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="1" source="yYKGKoS039EIgSRdd9-Q-88" target="yYKGKoS039EIgSRdd9-Q-59">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="90" y="476" as="sourcePoint"/>
+            <mxPoint x="90" y="496.71067811865476" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yYKGKoS039EIgSRdd9-Q-90" value="&lt;span&gt;Ключ из таблицы &lt;/span&gt;&lt;span lang=&quot;EN-US&quot;&gt;PartScales&amp;nbsp;&lt;br&gt;&lt;/span&gt;&lt;span&gt;(&lt;/span&gt;&lt;span lang=&quot;EN-US&quot;&gt;partScaleID&lt;/span&gt;&lt;span&gt;) приходит в таблицу &lt;/span&gt;&lt;span lang=&quot;EN-US&quot;&gt;Partitionings&lt;/span&gt;&lt;span&gt;, где и собирается окончательный вариант разбиения для оценки результатов по каждой шкале конкретного опросника&lt;/span&gt;" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="390" y="793.5" width="128" height="203" as="geometry"/>
+        </mxCell>
+        <mxCell id="yYKGKoS039EIgSRdd9-Q-91" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="1" source="yYKGKoS039EIgSRdd9-Q-90" target="yYKGKoS039EIgSRdd9-Q-47">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="454" y="772.7893218813452" as="sourcePoint"/>
+            <mxPoint x="454" y="722.7893218813452" as="targetPoint"/>
+            <Array as="points">
+              <mxPoint x="410" y="670"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yYKGKoS039EIgSRdd9-Q-92" value="" style="endArrow=none;dashed=1;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.151;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="yYKGKoS039EIgSRdd9-Q-80" target="yYKGKoS039EIgSRdd9-Q-84">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="274.5" y="989.2893218813452" as="sourcePoint"/>
+            <mxPoint x="274.5" y="939.2893218813452" as="targetPoint"/>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
